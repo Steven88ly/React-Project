@@ -7,7 +7,7 @@ const Users = () => {
       id: "u1",
       name: "kathleen",
       image:
-        "https://unsplash.com/photos/woman-in-black-sleeveless-top-standing-beside-fence-NVi2yab124g",
+        "E:/Downloads/image.jpg",
       places: 3,
     },
   ];
